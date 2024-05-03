@@ -1,7 +1,5 @@
 # PRODIGY_DS_02
 
-Circle with gradient
-Simple Gradient Half Circle Shape
 02
 
 Task-02
